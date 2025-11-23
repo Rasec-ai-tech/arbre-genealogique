@@ -1,0 +1,25 @@
+Personne
+Nom: Jean
+Naissance: 10 5 1925
+Deces: 12 6 2005
+Parents: 
+Enfants: Pierre Jacques Sophie
+Personne
+Nom: Suzanne
+Naissance: 8 3 1928
+Deces: 15 9 2010
+Parents: 
+Enfants: Pierre Jacques Sophie
+Personne
+Nom: Pierre
+Naissance: 22 7 1950
+Deces: 0 0 0
+Parents: Jean Suzanne
+Enfants: Thomas Laura
+Personne
+Nom: Jacques
+Naissance: 30 11 1955
+Deces: 0 0 0
+Parents: Jean Suzanne
+Enfants: Nicolas Élodie
+

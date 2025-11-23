@@ -1,0 +1,19 @@
+Personne
+Nom: Marc
+Naissance: 15 6 1950
+Deces: 20 2 1999
+Parents: 
+Enfants: Luc
+Personne
+Nom: Sophie
+Naissance: 10 9 1955
+Deces: 0 0 0
+Parents: 
+Enfants: Luc
+Personne
+Nom: Luc
+Naissance: 15 12 2000
+Deces: 0 0 0
+Parents: Marc Sophie
+Enfants: 
+

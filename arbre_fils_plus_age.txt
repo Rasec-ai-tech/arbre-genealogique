@@ -1,0 +1,24 @@
+Personne
+Nom: Albert
+Naissance: 5 5 1970
+Deces: 0 0 0
+Parents: 
+Enfants: David Laura 
+Personne
+Nom: Louise
+Naissance: 12 9 1975
+Deces: 0 0 0
+Parents: 
+Enfants: David Laura 
+Personne
+Nom: David
+Naissance: 3 2 1950
+Deces: 0 0 0
+Parents: Albert Louise 
+Enfants: 
+Personne
+Nom: Laura
+Naissance: 7 8 2000
+Deces: 0 0 0
+Parents: Albert Louise 
+Enfants: 

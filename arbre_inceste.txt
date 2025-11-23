@@ -1,0 +1,30 @@
+Personne
+Nom: Robert
+Naissance: 1 4 1940
+Deces: 12 10 2010
+Parents: 
+Enfants: Jacques Claire 
+Personne
+Nom: Marguerite
+Naissance: 3 6 1945
+Deces: 9 12 2020
+Parents: 
+Enfants: Jacques Claire 
+Personne
+Nom: Jacques
+Naissance: 8 3 1970
+Deces: 0 0 0
+Parents: Robert Marguerite 
+Enfants: Julien 
+Personne
+Nom: Claire
+Naissance: 19 9 1975
+Deces: 0 0 0
+Parents: Robert Marguerite 
+Enfants: Julien 
+Personne
+Nom: Julien
+Naissance: 14 2 2000
+Deces: 0 0 0
+Parents: Jacques Claire 
+Enfants: 
