@@ -1,6 +1,6 @@
 # Projet : Implémentation d’un Arbre Généalogique en C
 
-Projet réalisé dans le cadre du cours Algorithmique et Structures de Données Avancées.  
+Projet réalisé dans le cadre du cours Algorithmique, Structures de Données Avancées et complexités.  
 Ce programme permet de créer, manipuler et analyser un arbre généalogique tout en détectant des incohérences familiales.
 
 ## 1. Objectif du projet
