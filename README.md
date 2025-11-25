@@ -89,8 +89,3 @@ Le programme identifie plusieurs incohérences :
   - frères et sœurs  
   - cousins directs  
 - etc.
-
-## 7. Compilation & exécution
-
-  gcc main.c -o main
-  ./main
